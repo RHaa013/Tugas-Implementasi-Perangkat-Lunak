@@ -1,2 +1,0 @@
-Tugas 1 Implementasi Perangkat Lunak
--Membuat Branch Kemudian Menggabungkan branch tersebut(Merge)
